@@ -1,0 +1,3 @@
+To use these doors in your game they should be placed within the img\characters folder:
+
+eg. C:\Users\Brandon_New_Laptop\Documents\Games\TowerOfTerror\img\characters
