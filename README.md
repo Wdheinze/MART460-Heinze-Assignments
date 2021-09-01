@@ -1,4 +1,4 @@
 
-# MART460-Heinze-Assignments Assignment 1
+# MART460HeinzeAssignment 1
 
 Welcome to my Readme
